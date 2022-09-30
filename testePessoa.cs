@@ -125,9 +125,9 @@ class App {
         Pai Jose = new Pai ();
         Filho Enzo = new Filho ();
 
-        //Pai.Nome = "Jose";
-        //Pai.Idade = 52;
-        //Pai.Peso = 70;
+        //Jose.Nome = "Jose";
+        //Jose.Idade = 52;
+        //Jose.Peso = 70;
 
         //Enzo.Nome = "Enzo";
         //Enzo.Idade = 21;
