@@ -15,9 +15,9 @@ class Pessoa:
 
 class Pai (Pessoa):
     def __init__ (self, pNome, pIdade, pPeso, pSalario):
-        self.Salario = pSalario
         super ().__init__ (pNome, pIdade, pPeso)
-
+        self.Salario = pSalario
+        
     def Andar (self):
         self.Energia -= 30
 
