@@ -85,7 +85,7 @@ class Filho: Pessoa {
 
     }
     
-    //Caso não queira fazer alteração nos métodos da classe Pessoa é preciso não implementar nada! (Com exceção dos constructors e destructor)
+    //Caso não queira fazer alteração nos métodos da classe Pessoa é possível não implementar nada! (Com exceção dos constructors e destructor)
     //Isso é possível pois essa classe herda da classe pessoa!
 }
 
